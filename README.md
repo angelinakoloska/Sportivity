@@ -1,2 +1,2 @@
 # Sportivity
-For my IT class
+A project for my computer science class
